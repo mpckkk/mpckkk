@@ -4,9 +4,6 @@
 
 - 💬 Ask me about **python, bioinformatics, single cell**
 
-- 📫 How to reach me **mpengchong@gmail.com**
-
-- 📄 Know about my experiences [https://ma-io.vercel.app/](https://ma-io.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
