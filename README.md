@@ -15,4 +15,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpckkk&show_icons=true&locale=en" alt="mpckkk" /></p>
 
-[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12129840270&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12129840270&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)]
+[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12129840270&redirect=true]
+[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12129840270&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)]
