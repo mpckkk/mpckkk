@@ -14,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpckkk&show_icons=true&locale=en&layout=compact" alt="mpckkk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpckkk&show_icons=true&locale=en" alt="mpckkk" /></p>
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=12129840270&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/12129840270)
