@@ -14,3 +14,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpckkk&show_icons=true&locale=en&layout=compact" alt="mpckkk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpckkk&show_icons=true&locale=en" alt="mpckkk" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mpckkk)](https://github.com/ryo-ma/github-profile-trophy)
