@@ -22,7 +22,7 @@
     </td>
     <td>
       <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12129840270&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Card" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12129840270&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
       </a>
     </td>
   </tr>
