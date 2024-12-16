@@ -17,4 +17,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mpckkk)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12129840270&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
