@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=mpckkk)](https://github.com/ryo-ma/github-profile-trophy)
 [![MasterHead](https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)]([https://github.com/mpckkk])
 
 <h3 align="left">Connect with me:</h3>
@@ -15,6 +16,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpckkk&show_icons=true&locale=en" alt="mpckkk" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mpckkk)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12129840270&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
