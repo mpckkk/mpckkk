@@ -9,9 +9,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mpckkk&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mpckkk&show_icons=true&locale=en" alt="GitHub Stats" />
-    </td>
-    <td>
       <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12129840270&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
       </a>
